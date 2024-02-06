@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "author": "Keepitreal",
+    "img": "img/creator-1",
+    "alt": "A girl with red hair",
+    "sales": "34.53"
+  },
+  {
+    "id": 2,
+    "author": "DigiLab",
+    "img": "img/creator-2",
+    "alt": "An old man with glasses and green hair",
+    "sales": "32.13"
+  },
+  {
+    "id": 3,
+    "author": "GravityOne",
+    "img": "img/creator-3",
+    "alt": "A young girl with green hair",
+    "sales": "28.93"
+  },
+  {
+    "id": 4,
+    "author": "Juanie",
+    "img": "img/creator-4",
+    "alt": "A serious girl with blue eyes and hair",
+    "sales": "25.30"
+  },
+  {
+    "id": 5,
+    "author": "BlueWhale",
+    "img": "img/creator-5",
+    "alt": "A robot-like man",
+    "sales": "22.22"
+  },
+  {
+    "id": 6,
+    "author": "Mr Fox",
+    "img": "img/creator-6",
+    "alt": "A painted fox with glasses",
+    "sales": "19.28"
+  },
+  {
+    "id": 7,
+    "author": "Shroomie",
+    "img": "img/creator-7",
+    "alt": "An avatar man",
+    "sales": "34.53"
+  },
+  {
+    "id": 8,
+    "author": "Robotica",
+    "img": "img/creator-8",
+    "alt": "A creepy robot",
+    "sales": "32.13"
+  },
+  {
+    "id": 9,
+    "author": "RustyRobot",
+    "img": "img/creator-9",
+    "alt": "A smiling robot",
+    "sales": "28.93"
+  },
+  {
+    "id": 10,
+    "author": "Animakid",
+    "img": "img/creator-10",
+    "alt": "A man in a helmet",
+    "sales": "25.30"
+  },
+  {
+    "id": 11,
+    "author": "Dotgu",
+    "img": "img/creator-11",
+    "alt": "A smiling girl with black-and-blue hair",
+    "sales": "22.22"
+  },
+  {
+    "id": 12,
+    "author": "Ghiblier",
+    "img": "img/creator-12",
+    "alt": "An asian man with dark hair and sakura in the background",
+    "sales": "19.28"
+  },
+  {
+    "id": 13,
+    "author": "Ghiblier",
+    "img": "img/creator-12",
+    "alt": "An asian man with dark hair and sakura in the background",
+    "sales": "19.28"
+  },
+  {
+    "id": 14,
+    "author": "Ghiblier",
+    "img": "img/creator-12",
+    "alt": "An asian man with dark hair and sakura in the background",
+    "sales": "19.28"
+  }
+]
